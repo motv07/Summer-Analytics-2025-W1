@@ -12,7 +12,6 @@ Welcome to my submission for **Week 1** of the **Summer Analytics 2025** program
 - Data Visualization (Histogram, Heatmap)
 - Filtering and Aggregation with Pandas
 - Logical Condition Filtering
-- Summary Insights from `Cars.csv`
 
 ##  Technologies Used
 - Python
