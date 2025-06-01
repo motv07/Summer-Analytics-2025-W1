@@ -3,7 +3,7 @@
 Welcome to my submission for **Week 1** of the **Summer Analytics 2025** program, organized by the **Consulting & Analytics Club, IIT Guwahati**.
 
 ## Contents
-- `SA2025_W1_FINAL.ipynb`: Jupyter notebook containing all solutions and visualizations
+- `SA2025_W1.ipynb`: Jupyter notebook containing all solutions and visualizations
 
 ##  Topics Covered
 - Data Import & Cleaning
